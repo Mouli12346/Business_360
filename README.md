@@ -141,3 +141,12 @@ Iterative development cycles to enhance visuals, measures, and overall user expe
 
 ![Screenshot 2024-01-06 143143](https://github.com/Mouli12346/Business_360/assets/141912332/7b011d16-318b-48a8-88a5-f3d62a00b1cb)
 
+Project Outcome:
+
+The implemented PowerBi report serves as a powerful decision-making tool, empowering stakeholders to derive insights and answer numerous questions arising from diverse business scenarios. It ensures a data-driven approach to decision-making and provides a comprehensive solution to address a myriad of "why" questions in various business situations.
+
+
+
+
+
+
