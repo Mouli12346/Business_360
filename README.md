@@ -1,4 +1,5 @@
 # Business_360
+
 Project Overview:
 
 AtliQ Hardware, a rapidly growing company in the computer hardware industry, is embarking on a data analytics initiative using PowerBi to gain a competitive edge, make informed decisions, and enhance various aspects of its business, including finance, sales, marketing, and supply chain. The project aims to address stakeholder questions comprehensively and provide insights across different domains.
@@ -86,3 +87,44 @@ Emphasized good practices in data modeling to enhance overall report performance
 ![Screenshot 2024-01-06 141133](https://github.com/Mouli12346/Business_360/assets/141912332/c9e91964-adcc-41c5-9ee0-f9892c067b2f)
 
 
+Dashboard Designing:
+
+Home View:
+The Home View serves as the central hub, providing access to various sections of the dashboard. Users can navigate to specific views by clicking on dedicated buttons.
+
+Navigation Buttons:
+
+Info: A section offering essential background information about the company, project, and key terms.
+Finance View: Comprehensive financial analytics, including gross margin, net profit, and financial trends.
+Sales View: Visualizations depicting sales performance, net sales, and regional sales breakdowns.
+Marketing View: Insights into marketing effectiveness, including campaign performance and customer engagement.
+Supply Chain View: Analytics related to the supply chain, encompassing forecasting, inventory management, and cost analysis.
+Executive View: A high-level overview for executives, summarizing key metrics and strategic insights.
+
+Visual Design:
+
+Clean and intuitive design with a consistent color scheme for a cohesive look.
+Use of interactive elements, such as buttons and tooltips, to enhance user engagement.
+Incorporation of company branding elements to maintain a cohesive brand identity.
+
+Measures and Metrics:
+
+Creation of measures for financial KPIs, sales performance indicators, marketing effectiveness metrics, and supply chain analytics.
+Dynamic titles and contextual measures based on applied filters for personalized insights.
+Implementation of KPI indicators for quick performance assessments.
+
+Responsive Design:
+
+Ensuring the dashboard is responsive, adapting to different screen sizes and devices.
+Optimizing visuals for quick loading and smooth user experience.
+
+User-Friendly Interactions:
+
+Integration of bookmarks for smooth navigation between views.
+Utilization of buttons and dropdowns for easy filtering and exploration of data.
+Incorporation of tooltips and legends for additional context on visual elements.
+
+Iterative Development:
+
+Continuous collaboration with stakeholders for feedback and refinement.
+Iterative development cycles to enhance visuals, measures, and overall user experience.
