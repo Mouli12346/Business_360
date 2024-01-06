@@ -41,6 +41,10 @@ GitHub:
 Uploading large files using GitHub LFS
 Tracking specific file extensions for LFS
 
+Live Dashboard Link:
+
+https://www.novypro.com/project/business360project
+
 Business-Related Terms:
 
 Gross price
