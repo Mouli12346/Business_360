@@ -135,7 +135,6 @@ Iterative development cycles to enhance visuals, measures, and overall user expe
 
 ![Screenshot 2024-01-06 143023](https://github.com/Mouli12346/Business_360/assets/141912332/6360fb2b-4c51-4b1b-a625-6dd4e6527b44)
 
-![Screenshot 2024-01-06 143113](https://github.com/Mouli12346/Business_360/assets/141912332/9e57fca5-c129-45a5-8688-8b1c3855fa28)
 
 ![Screenshot 2024-01-06 143129](https://github.com/Mouli12346/Business_360/assets/141912332/6a0f2829-51af-491e-a6f4-0cdfc92dc2c9)
 
