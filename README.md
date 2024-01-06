@@ -83,3 +83,6 @@ Data Modeling:
 Followed Snowfall data modeling methodology to establish a robust foundation for building visuals.
 Emphasized good practices in data modeling to enhance overall report performance.
 
+![Screenshot 2024-01-06 141133](https://github.com/Mouli12346/Business_360/assets/141912332/c9e91964-adcc-41c5-9ee0-f9892c067b2f)
+
+
