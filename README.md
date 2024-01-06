@@ -128,3 +128,16 @@ Iterative Development:
 
 Continuous collaboration with stakeholders for feedback and refinement.
 Iterative development cycles to enhance visuals, measures, and overall user experience.
+
+![Screenshot 2024-01-06 142939](https://github.com/Mouli12346/Business_360/assets/141912332/86f7f258-da0d-412a-94a3-62d295a3c124)
+
+![Screenshot 2024-01-06 143005](https://github.com/Mouli12346/Business_360/assets/141912332/0106cd43-71c1-446d-b97f-aa6445820899)
+
+![Screenshot 2024-01-06 143023](https://github.com/Mouli12346/Business_360/assets/141912332/6360fb2b-4c51-4b1b-a625-6dd4e6527b44)
+
+![Screenshot 2024-01-06 143113](https://github.com/Mouli12346/Business_360/assets/141912332/9e57fca5-c129-45a5-8688-8b1c3855fa28)
+
+![Screenshot 2024-01-06 143129](https://github.com/Mouli12346/Business_360/assets/141912332/6a0f2829-51af-491e-a6f4-0cdfc92dc2c9)
+
+![Screenshot 2024-01-06 143143](https://github.com/Mouli12346/Business_360/assets/141912332/7b011d16-318b-48a8-88a5-f3d62a00b1cb)
+
