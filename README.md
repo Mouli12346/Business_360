@@ -1,8 +1,7 @@
 # Business_360
-
 Project Overview:
 
-AtliQ Hardware, a rapidly growing company in the computer hardware industry, is embarking on a data analytics initiative using PowerBi to gain a competitive edge, make informed decisions, and enhance various aspects of their business, including finance, sales, marketing, and supply chain. The project aims to address stakeholder questions comprehensively and provide insights across different domains.
+AtliQ Hardware, a rapidly growing company in the computer hardware industry, is embarking on a data analytics initiative using PowerBi to gain a competitive edge, make informed decisions, and enhance various aspects of its business, including finance, sales, marketing, and supply chain. The project aims to address stakeholder questions comprehensively and provide insights across different domains.
 
 Project Implementation:
 
